@@ -8,4 +8,4 @@
 
 (currently iOS support only)
 
-### Download at: AppStore
+### Download at: https://apps.apple.com/us/app/faster-toeic/id1568500364
